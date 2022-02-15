@@ -1,0 +1,5 @@
+# Python Archive
+
+A bunch of VERY rough work that I did for the [Learn Python The Hard Way](https://www.amazon.ca/Learn-Python-Hard-Way-Introduction/dp/0134692888/ref=pd_lpo_1?pd_rd_i=0134692888&psc=1) book. Note: not all exercises are present, and some are probably not complete all the way, even though I read through the entire thing. Because I discovered that the book was somewhat outdated by the time I was reading it, and I only did things that I felt would teach me things. Yes, yes, that is ENTIRELY against the author's intentions for how people should read his book, but eh, I got a fair amount out of it. 
+
+Don't know how much is still applicable or how much I remember though. And I could probably code circles around the past me, given equivalent knowledge, so please don't use this to judge me, just treat this archive as a curiosity and nothing more.

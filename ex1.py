@@ -1,0 +1,8 @@
+#print ("Hello World!")
+#print ("Saluatations again")
+#print ("I know where this is going.")
+#print ("This is fun.")
+#print ('Yay! singlequotes!')
+#print ("I'd much rather you 'not'")
+#print ('I "said" do not touch this. Can"t touch this *music*')
+print ("another line.")
